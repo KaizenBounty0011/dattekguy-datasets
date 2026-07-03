@@ -1,0 +1,81 @@
+employee_id,name,rig_id,role,monthly_salary,hire_date
+EM001,Joy Nnamdi,RG01,Geologist,690000,2023-06-17
+EM002,Tobi Aliyu,RG05,Supervisor,872000,2017-01-19
+EM003,Linda Danjuma,RG01,Rig Worker,301000,2021-04-08
+EM004,Paul Uche,RG04,Driller,479000,2011-09-19
+EM005,Esther Hassan,RG04,Engineer,728000,2012-02-01
+EM006,Frank Aliyu,RG04,Geologist,670000,2016-04-18
+EM007,Kemi White,RG04,Supervisor,872000,2024-08-07
+EM008,Funke Smith,RG06,Safety Officer,424000,2018-05-13
+EM009,Daniel Igwe,RG04,Supervisor,857000,2023-06-20
+EM010,Joy Bello,RG05,Geologist,687000,2016-03-12
+EM011,Peter Nwosu,RG06,Supervisor,829000,2010-01-30
+EM012,Chioma Ojo,RG06,Supervisor,817000,2021-02-18
+EM013,Ibrahim Bello,RG03,Safety Officer,491000,2020-10-16
+EM014,Ngozi Amadi,RG05,Supervisor,878000,2013-12-02
+EM015,David Lawal,RG01,Driller,460000,2011-07-05
+EM016,Linda Moore,RG04,Driller,466000,2010-09-22
+EM017,Rita Sani,RG04,Engineer,682000,2014-10-13
+EM018,Helen Eze,RG03,Geologist,786000,2021-03-22
+EM019,Peter Lawal,RG04,Engineer,696000,2016-10-13
+EM020,James Brown,RG03,Driller,437000,2016-04-29
+EM021,Mary Adamu,RG06,Rig Worker,277000,2021-04-26
+EM022,Joseph Garba,RG01,Safety Officer,524000,2019-04-12
+EM023,Rita Hassan,RG03,Engineer,644000,2014-07-28
+EM024,Fatima Igwe,RG01,Rig Worker,349000,2014-03-20
+EM025,Amina Garba,RG05,Rig Worker,315000,2014-05-22
+EM026,Frank Chukwu,RG05,Engineer,640000,2017-11-01
+EM027,Stella Umeh,RG05,Driller,463000,2024-04-21
+EM028,Grace James,RG05,Driller,453000,2017-09-16
+EM029,Stella Johnson,RG05,Geologist,747000,2011-09-15
+EM030,Funke Wilson,RG03,Driller,462000,2021-08-21
+EM031,Ahmed Okoro,RG03,Rig Worker,265000,2014-10-29
+EM032,Fatima Williams,RG05,Geologist,726000,2016-12-23
+EM033,Musa Eze,RG05,Geologist,680000,2011-03-31
+EM034,George Mohammed,RG03,Driller,468000,2014-03-29
+EM035,Daniel Balogun,RG02,Engineer,699000,2013-07-10
+EM036,Tobi Igwe,RG05,Rig Worker,338000,2015-06-07
+EM037,Helen Williams,RG02,Rig Worker,236000,2021-07-20
+EM038,Amina Hassan,RG02,Engineer,695000,2012-01-13
+EM039,Ibrahim Idris,RG01,Rig Worker,270000,2015-08-06
+EM040,Zainab Garba,RG03,Rig Worker,270000,2011-03-19
+EM041,Tunde Nwosu,RG01,Rig Worker,268000,2011-04-28
+EM042,Ibrahim Okafor,RG04,Engineer,732000,2021-12-13
+EM043,Michael Johnson,RG05,Rig Worker,324000,2018-02-01
+EM044,Funke Sani,RG06,Geologist,750000,2017-03-04
+EM045,Frank Clark,RG02,Safety Officer,498000,2017-04-20
+EM046,Grace Danjuma,RG06,Engineer,667000,2023-05-28
+EM047,Michael Smith,RG04,Geologist,738000,2017-08-27
+EM048,Sarah Nnamdi,RG03,Driller,391000,2023-11-12
+EM049,Michael Bello,RG04,Supervisor,796000,2018-07-30
+EM050,Ahmed Amadi,RG01,Supervisor,774000,2011-04-28
+EM051,Aisha Okonkwo,RG02,Supervisor,834000,2013-01-02
+EM052,Grace Idris,RG05,Supervisor,806000,2019-05-13
+EM053,Daniel Smith,RG06,Geologist,691000,2024-03-12
+EM054,Victor Idris,RG02,Safety Officer,517000,2023-11-13
+EM055,Ahmed Smith,RG01,Geologist,719000,2024-02-29
+EM056,Rita Ojo,RG06,Engineer,642000,2010-02-01
+EM057,Victor Ojo,RG02,Rig Worker,255000,2024-11-06
+EM058,Victor James,RG02,Supervisor,803000,2022-05-13
+EM059,Kemi Johnson,RG06,Supervisor,821000,2013-07-17
+EM060,Mary Adeyemi,RG06,Driller,488000,2015-12-30
+EM061,Zainab Amadi,RG04,Geologist,702000,2015-09-13
+EM062,Funke Okoro,RG01,Driller,407000,2023-09-07
+EM063,Linda Miller,RG03,Engineer,667000,2011-01-02
+EM064,Chinedu Bello,RG06,Engineer,657000,2024-03-03
+EM065,Rebecca Bello,RG04,Geologist,681000,2016-06-17
+EM066,Mary Obi,RG02,Geologist,737000,2010-04-15
+EM067,Victor Sani,RG04,Safety Officer,487000,2020-02-13
+EM068,Tobi Taylor,RG01,Safety Officer,425000,2015-10-08
+EM069,Chinedu White,RG05,Rig Worker,304000,2019-10-09
+EM070,Emeka Yusuf,RG01,Safety Officer,444000,2018-09-22
+EM071,Victor Clark,RG02,Engineer,676000,2021-07-19
+EM072,Rita Umeh,RG05,Geologist,800000,2019-12-07
+EM073,Ahmed Garba,RG04,Supervisor,830000,2011-08-30
+EM074,Ahmed Johnson,RG04,Driller,402000,2013-02-04
+EM075,Mary Eze,RG01,Geologist,719000,2022-06-21
+EM076,James Uche,RG04,Safety Officer,490000,2024-12-04
+EM077,Linda Ojo,RG05,Safety Officer,423000,2014-10-22
+EM078,Mary Yusuf,RG03,Geologist,701000,2015-10-02
+EM079,Helen Chukwu,RG06,Geologist,732000,2022-07-25
+EM080,Musa Miller,RG03,Driller,388000,2023-03-20

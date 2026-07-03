@@ -1,0 +1,71 @@
+staff_id,name,role,department,monthly_salary,hire_date
+ST001,Halima James,Nurse,Surgery,318000,2014-01-26
+ST002,Peter Obi,Admin,Maternity,257000,2017-03-20
+ST003,Helen Abubakar,Nurse,Pediatrics,256000,2012-03-28
+ST004,Amina Abubakar,Admin,Pediatrics,180000,2022-02-23
+ST005,Joy Amadi,Doctor,Cardiology,848000,2016-12-24
+ST006,Halima Okoro,Nurse,Pediatrics,330000,2013-03-21
+ST007,Musa Williams,Lab Technician,Surgery,287000,2013-01-03
+ST008,Helen White,Nurse,Pediatrics,266000,2022-06-08
+ST009,Helen Moore,Nurse,Maternity,233000,2014-01-12
+ST010,Peter Taylor,Doctor,Cardiology,796000,2013-05-13
+ST011,Fatima Nnamdi,Lab Technician,Emergency,295000,2012-04-29
+ST012,George Adeyemi,Lab Technician,Surgery,245000,2023-01-04
+ST013,David Idris,Doctor,General Medicine,801000,2013-01-22
+ST014,Ngozi Okoro,Nurse,Emergency,258000,2020-05-02
+ST015,Stella Garba,Nurse,Maternity,243000,2019-02-18
+ST016,Rebecca Suleiman,Doctor,Cardiology,876000,2013-09-21
+ST017,Frank Smith,Nurse,Maternity,281000,2019-10-15
+ST018,Rebecca Brown,Lab Technician,Cardiology,206000,2014-12-23
+ST019,Ngozi Wilson,Nurse,Maternity,292000,2016-03-20
+ST020,Sarah Amadi,Doctor,Surgery,802000,2019-04-26
+ST021,Joy Adeyemi,Nurse,Maternity,232000,2020-09-07
+ST022,Blessing Bello,Admin,Maternity,216000,2024-07-16
+ST023,Fatima Danjuma,Lab Technician,Cardiology,212000,2024-01-07
+ST024,Ibrahim Abubakar,Nurse,Emergency,236000,2012-02-06
+ST025,Ahmed Chukwu,Nurse,Maternity,267000,2023-07-23
+ST026,Ngozi Ojo,Nurse,Surgery,233000,2012-02-17
+ST027,Halima Johnson,Nurse,Surgery,319000,2019-01-09
+ST028,James Moore,Nurse,Maternity,319000,2023-02-19
+ST029,Ahmed Uche,Doctor,Maternity,867000,2017-06-29
+ST030,Joy Amadi,Lab Technician,Emergency,236000,2018-05-04
+ST031,Stella Johnson,Lab Technician,General Medicine,240000,2024-06-08
+ST032,Sarah Lawal,Nurse,Cardiology,231000,2014-11-02
+ST033,Aisha Ojo,Lab Technician,Emergency,220000,2022-03-20
+ST034,Emeka Igwe,Nurse,Emergency,254000,2012-02-05
+ST035,Tunde Johnson,Doctor,Emergency,859000,2024-03-26
+ST036,Rita Taylor,Nurse,Pediatrics,291000,2016-09-14
+ST037,Chinedu Okafor,Lab Technician,Maternity,236000,2016-01-14
+ST038,Esther Bello,Lab Technician,Cardiology,220000,2023-06-14
+ST039,Chinedu Chukwu,Doctor,Emergency,836000,2015-09-03
+ST040,Tunde Nwosu,Nurse,Surgery,231000,2020-04-22
+ST041,George Igwe,Doctor,Emergency,820000,2020-04-17
+ST042,Grace Brown,Doctor,Pediatrics,800000,2017-09-02
+ST043,Linda Eze,Lab Technician,Cardiology,270000,2023-06-11
+ST044,Victor Okafor,Lab Technician,General Medicine,246000,2014-09-27
+ST045,Stella Abubakar,Nurse,Maternity,311000,2017-12-29
+ST046,Chinedu Bello,Doctor,Pediatrics,875000,2014-01-28
+ST047,Michael Okonkwo,Nurse,Emergency,321000,2012-01-27
+ST048,Emeka Adeyemi,Lab Technician,Pediatrics,294000,2020-05-19
+ST049,Zainab Clark,Doctor,Maternity,857000,2016-10-09
+ST050,Amina Hassan,Nurse,Cardiology,319000,2015-04-06
+ST051,Funke Ojo,Nurse,Maternity,263000,2022-01-18
+ST052,Chinedu Okoro,Nurse,Maternity,255000,2012-12-10
+ST053,Amina Igwe,Admin,Surgery,186000,2013-01-31
+ST054,Sarah Igwe,Nurse,Cardiology,255000,2021-03-24
+ST055,Paul Eze,Doctor,Surgery,818000,2014-10-05
+ST056,Andrew Yusuf,Nurse,Maternity,268000,2013-12-10
+ST057,Tunde Moore,Doctor,Emergency,852000,2016-12-22
+ST058,Ahmed White,Nurse,Pediatrics,254000,2021-08-29
+ST059,Fatima Clark,Nurse,Pediatrics,316000,2016-05-16
+ST060,Esther Chukwu,Doctor,General Medicine,856000,2018-04-12
+ST061,Frank Danjuma,Nurse,Emergency,277000,2012-09-16
+ST062,Helen Chukwu,Lab Technician,Emergency,237000,2020-07-22
+ST063,Michael Moore,Nurse,Cardiology,309000,2024-05-07
+ST064,Andrew Nnamdi,Admin,Surgery,190000,2013-01-14
+ST065,Samuel Okafor,Doctor,Pediatrics,799000,2016-09-17
+ST066,Joseph Umeh,Nurse,Maternity,310000,2017-05-14
+ST067,Musa Wilson,Doctor,Emergency,878000,2015-04-04
+ST068,Mary Amadi,Nurse,General Medicine,321000,2015-06-11
+ST069,Mary Lawal,Lab Technician,Emergency,203000,2018-12-17
+ST070,George Clark,Nurse,Cardiology,284000,2023-07-21

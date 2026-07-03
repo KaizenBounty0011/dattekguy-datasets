@@ -1,0 +1,7 @@
+store_id,store_name,city,size_sqm,opened_year,manager
+ST01,FreshMart Lagos,Lagos,1095,2012,Chinedu Bello
+ST02,FreshMart Abuja,Abuja,2393,2014,Tobi Johnson
+ST03,FreshMart Port Harcourt,Port Harcourt,1685,2013,Chinedu Ojo
+ST04,FreshMart Kano,Kano,455,2015,Stella Igwe
+ST05,FreshMart Ibadan,Ibadan,430,2019,Blessing Adamu
+ST06,FreshMart Enugu,Enugu,681,2016,George Nwosu

@@ -1,0 +1,46 @@
+incident_id,rig_id,date,severity,incident_type,injuries
+IN001,RG05,2023-02-23,Medium,Electrical Fault,3
+IN002,RG03,2024-06-08,Low,Gas Leak,0
+IN003,RG01,2023-03-28,Low,Slip/Fall,0
+IN004,RG02,2024-03-25,Low,Chemical Spill,0
+IN005,RG05,2023-12-08,Medium,Slip/Fall,1
+IN006,RG03,2024-10-20,Low,Chemical Spill,0
+IN007,RG02,2024-12-26,Medium,Fire Alarm,3
+IN008,RG05,2024-01-21,Medium,Fire Alarm,0
+IN009,RG04,2023-12-02,Low,Fire Alarm,0
+IN010,RG01,2023-07-18,Low,Electrical Fault,0
+IN011,RG02,2023-09-17,Medium,Gas Leak,2
+IN012,RG06,2024-09-01,Low,Gas Leak,0
+IN013,RG05,2024-09-04,Medium,Fire Alarm,1
+IN014,RG01,2024-07-04,Low,Slip/Fall,0
+IN015,RG02,2023-08-16,Low,Gas Leak,0
+IN016,RG06,2024-03-07,Medium,Slip/Fall,3
+IN017,RG04,2023-08-14,Low,Slip/Fall,0
+IN018,RG03,2023-10-14,Medium,Gas Leak,3
+IN019,RG04,2023-06-27,Medium,Electrical Fault,3
+IN020,RG04,2023-09-08,Low,Fire Alarm,0
+IN021,RG05,2023-11-17,Medium,Electrical Fault,0
+IN022,RG05,2024-07-21,High,Chemical Spill,3
+IN023,RG03,2024-05-22,Medium,Gas Leak,2
+IN024,RG06,2023-09-03,Low,Gas Leak,0
+IN025,RG06,2023-12-09,High,Equipment Failure,2
+IN026,RG04,2024-04-15,Low,Gas Leak,0
+IN027,RG02,2024-05-02,Low,Fire Alarm,0
+IN028,RG04,2024-07-24,Medium,Fire Alarm,2
+IN029,RG03,2023-06-03,Low,Slip/Fall,0
+IN030,RG04,2024-04-23,Medium,Gas Leak,0
+IN031,RG05,2024-03-31,Low,Gas Leak,0
+IN032,RG03,2023-04-01,Low,Slip/Fall,0
+IN033,RG04,2023-08-01,Medium,Electrical Fault,1
+IN034,RG05,2024-08-25,Low,Slip/Fall,0
+IN035,RG06,2023-02-17,Low,Chemical Spill,0
+IN036,RG06,2023-02-04,Low,Fire Alarm,0
+IN037,RG04,2024-01-01,Medium,Electrical Fault,1
+IN038,RG06,2023-10-25,Low,Electrical Fault,0
+IN039,RG03,2023-09-08,Low,Chemical Spill,0
+IN040,RG06,2024-11-03,Medium,Fire Alarm,2
+IN041,RG03,2023-07-04,Low,Equipment Failure,0
+IN042,RG04,2024-03-16,Low,Slip/Fall,0
+IN043,RG01,2023-09-24,Low,Fire Alarm,0
+IN044,RG05,2023-03-22,Low,Slip/Fall,0
+IN045,RG06,2023-09-09,Low,Gas Leak,0

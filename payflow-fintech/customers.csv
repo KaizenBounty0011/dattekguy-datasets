@@ -1,0 +1,301 @@
+customer_id,name,email,city,account_type,signup_date
+CU0001,Grace Bello,user1@example.com,Ibadan,Personal,2021-07-03
+CU0002,Daniel Williams,user2@example.com,Abuja,Business,2019-05-11
+CU0003,Mary Eze,user3@example.com,Kano,Personal,2024-08-31
+CU0004,Tobi Bello,user4@example.com,Kano,Business,2021-06-21
+CU0005,Paul White,user5@example.com,Ibadan,Personal,2020-10-15
+CU0006,Halima Taylor,user6@example.com,Ibadan,Personal,2021-05-31
+CU0007,Zainab Williams,user7@example.com,Abuja,Business,2020-02-01
+CU0008,Victor Garba,user8@example.com,Ibadan,Personal,2024-02-25
+CU0009,George Abubakar,user9@example.com,Kaduna,Personal,2022-04-15
+CU0010,Stella Igwe,user10@example.com,Kano,Personal,2019-07-07
+CU0011,Joseph Miller,user11@example.com,Abuja,Personal,2020-02-18
+CU0012,Ahmed Uche,user12@example.com,Benin City,Personal,2020-10-28
+CU0013,Joy Garba,user13@example.com,Kano,Personal,2019-10-20
+CU0014,Tobi Adamu,user14@example.com,Kano,Personal,2024-03-08
+CU0015,Ahmed Uche,user15@example.com,Kano,Personal,2019-08-18
+CU0016,Joseph Adeyemi,user16@example.com,Enugu,Business,2022-01-01
+CU0017,David Yusuf,user17@example.com,Enugu,Personal,2024-08-06
+CU0018,Rebecca Okoro,user18@example.com,Port Harcourt,Personal,2020-07-25
+CU0019,Ngozi Danjuma,user19@example.com,Ibadan,Business,2023-06-24
+CU0020,Joy Nwosu,user20@example.com,Port Harcourt,Business,2020-01-08
+CU0021,Sarah Abubakar,user21@example.com,Port Harcourt,Personal,2023-09-26
+CU0022,Tobi Mohammed,user22@example.com,Kaduna,Business,2024-04-01
+CU0023,Aisha Lawal,user23@example.com,Lagos,Personal,2021-12-28
+CU0024,Zainab Abubakar,user24@example.com,Ibadan,Business,2020-10-09
+CU0025,Kemi Okafor,user25@example.com,Ibadan,Personal,2024-09-10
+CU0026,Michael Sani,user26@example.com,Kano,Personal,2023-03-12
+CU0027,Peter Moore,user27@example.com,Lagos,Personal,2024-06-24
+CU0028,Mary Abubakar,user28@example.com,Enugu,Personal,2021-09-07
+CU0029,Sarah Davis,user29@example.com,Abuja,Personal,2024-06-13
+CU0030,David Moore,user30@example.com,Port Harcourt,Personal,2024-04-30
+CU0031,Funke Adamu,user31@example.com,Ibadan,Business,2021-05-17
+CU0032,George Brown,user32@example.com,Ibadan,Business,2023-03-10
+CU0033,Paul Umeh,user33@example.com,Benin City,Personal,2021-10-12
+CU0034,Joseph Mohammed,user34@example.com,Enugu,Personal,2021-07-31
+CU0035,Helen Nwosu,user35@example.com,Lagos,Personal,2019-08-30
+CU0036,Joseph Mohammed,user36@example.com,Lagos,Personal,2019-10-18
+CU0037,Chinedu Davis,user37@example.com,Ibadan,Business,2021-05-27
+CU0038,George Okonkwo,user38@example.com,Benin City,Personal,2024-04-21
+CU0039,Frank Brown,user39@example.com,Abuja,Personal,2023-11-01
+CU0040,Victor Clark,user40@example.com,Kaduna,Business,2019-08-10
+CU0041,Michael Johnson,user41@example.com,Kaduna,Personal,2020-03-23
+CU0042,Ngozi Brown,user42@example.com,Kano,Business,2020-07-28
+CU0043,Halima Obi,user43@example.com,Ibadan,Business,2021-10-20
+CU0044,David Suleiman,user44@example.com,Abuja,Personal,2019-03-02
+CU0045,Linda Davis,user45@example.com,Port Harcourt,Business,2024-06-12
+CU0046,Andrew Yusuf,user46@example.com,Kaduna,Personal,2020-11-05
+CU0047,Ahmed Okafor,user47@example.com,Kaduna,Personal,2024-02-07
+CU0048,Ibrahim Clark,user48@example.com,Benin City,Personal,2021-02-16
+CU0049,Ibrahim Yusuf,user49@example.com,Lagos,Personal,2022-07-08
+CU0050,Sarah Johnson,user50@example.com,Benin City,Personal,2019-08-21
+CU0051,Chinedu Eze,user51@example.com,Port Harcourt,Personal,2019-10-06
+CU0052,Ngozi Idris,user52@example.com,Abuja,Personal,2019-06-12
+CU0053,Stella Eze,user53@example.com,Kaduna,Personal,2021-12-04
+CU0054,Fatima Chukwu,user54@example.com,Kano,Personal,2023-06-10
+CU0055,Daniel Sani,user55@example.com,Benin City,Personal,2019-10-25
+CU0056,James Okoro,user56@example.com,Abuja,Personal,2021-05-23
+CU0057,Chinedu Lawal,user57@example.com,Port Harcourt,Personal,2019-10-09
+CU0058,Ngozi Igwe,user58@example.com,Ibadan,Personal,2023-11-30
+CU0059,George Sani,user59@example.com,Lagos,Personal,2020-02-29
+CU0060,Daniel Lawal,user60@example.com,Abuja,Personal,2020-09-28
+CU0061,Blessing Miller,user61@example.com,Kano,Personal,2021-04-13
+CU0062,Emeka Aliyu,user62@example.com,Benin City,Personal,2019-07-28
+CU0063,Linda Clark,user63@example.com,Ibadan,Personal,2019-01-15
+CU0064,Zainab Okonkwo,user64@example.com,Ibadan,Personal,2023-12-15
+CU0065,Funke Clark,user65@example.com,Lagos,Personal,2019-11-05
+CU0066,Amina Moore,user66@example.com,Lagos,Personal,2020-08-29
+CU0067,Halima Okonkwo,user67@example.com,Lagos,Personal,2023-02-02
+CU0068,John Garba,user68@example.com,Kano,Personal,2020-02-26
+CU0069,Victor Danjuma,user69@example.com,Kaduna,Personal,2021-08-27
+CU0070,Peter Obi,user70@example.com,Kaduna,Personal,2021-01-04
+CU0071,Zainab Nnamdi,user71@example.com,Kano,Personal,2020-10-14
+CU0072,Michael Wilson,user72@example.com,Lagos,Business,2021-06-30
+CU0073,Samuel Okoro,user73@example.com,Enugu,Personal,2021-07-21
+CU0074,Joseph Bello,user74@example.com,Kano,Business,2022-09-06
+CU0075,Blessing Mohammed,user75@example.com,Ibadan,Personal,2024-09-17
+CU0076,Rebecca Moore,user76@example.com,Enugu,Personal,2020-04-17
+CU0077,Emeka Obi,user77@example.com,Ibadan,Personal,2020-03-20
+CU0078,Tobi Clark,user78@example.com,Enugu,Personal,2023-11-23
+CU0079,Tobi Aliyu,user79@example.com,Abuja,Business,2021-02-17
+CU0080,Emeka Adeyemi,user80@example.com,Kaduna,Personal,2024-10-30
+CU0081,George Brown,user81@example.com,Enugu,Business,2019-10-14
+CU0082,Zainab Amadi,user82@example.com,Enugu,Personal,2022-05-15
+CU0083,Chinedu Sani,user83@example.com,Kaduna,Personal,2023-07-07
+CU0084,Ibrahim Danjuma,user84@example.com,Port Harcourt,Personal,2023-09-19
+CU0085,Ahmed Obi,user85@example.com,Ibadan,Business,2019-01-02
+CU0086,Esther Miller,user86@example.com,Kano,Business,2022-08-12
+CU0087,Kemi Suleiman,user87@example.com,Benin City,Personal,2024-09-24
+CU0088,Andrew Adamu,user88@example.com,Abuja,Personal,2024-10-12
+CU0089,Stella Taylor,user89@example.com,Abuja,Personal,2022-06-25
+CU0090,Joseph Brown,user90@example.com,Port Harcourt,Personal,2019-07-09
+CU0091,Ngozi Hassan,user91@example.com,Abuja,Business,2023-08-25
+CU0092,Musa Brown,user92@example.com,Kaduna,Business,2023-06-25
+CU0093,Ngozi Smith,user93@example.com,Lagos,Personal,2023-10-08
+CU0094,Joseph Obi,user94@example.com,Benin City,Personal,2021-10-17
+CU0095,Grace Okoro,user95@example.com,Port Harcourt,Business,2024-12-15
+CU0096,Funke Balogun,user96@example.com,Enugu,Business,2024-08-29
+CU0097,Halima Danjuma,user97@example.com,Benin City,Personal,2024-04-28
+CU0098,Paul Lawal,user98@example.com,Kano,Personal,2024-11-05
+CU0099,Rita Davis,user99@example.com,Ibadan,Business,2019-11-14
+CU0100,Ibrahim Davis,user100@example.com,Ibadan,Personal,2022-08-02
+CU0101,George Eze,user101@example.com,Port Harcourt,Personal,2021-08-05
+CU0102,Ahmed Smith,user102@example.com,Kano,Personal,2023-08-27
+CU0103,Frank Taylor,user103@example.com,Benin City,Business,2019-09-13
+CU0104,Fatima Nnamdi,user104@example.com,Kaduna,Personal,2023-04-08
+CU0105,Andrew Okafor,user105@example.com,Enugu,Personal,2023-05-17
+CU0106,Frank Moore,user106@example.com,Kano,Business,2021-06-17
+CU0107,Blessing Clark,user107@example.com,Benin City,Personal,2023-05-12
+CU0108,Zainab Idris,user108@example.com,Port Harcourt,Business,2020-06-06
+CU0109,Stella Moore,user109@example.com,Lagos,Business,2019-04-22
+CU0110,Linda Clark,user110@example.com,Port Harcourt,Business,2021-01-14
+CU0111,Sarah Lawal,user111@example.com,Kaduna,Personal,2021-05-16
+CU0112,Kemi Chukwu,user112@example.com,Enugu,Business,2022-02-13
+CU0113,Frank Lawal,user113@example.com,Abuja,Business,2019-03-21
+CU0114,George Johnson,user114@example.com,Enugu,Personal,2019-10-09
+CU0115,John Bello,user115@example.com,Kano,Personal,2019-03-25
+CU0116,Stella Smith,user116@example.com,Kano,Personal,2024-04-23
+CU0117,Grace Ojo,user117@example.com,Kano,Business,2021-11-15
+CU0118,Joy Adamu,user118@example.com,Abuja,Personal,2022-06-28
+CU0119,Michael White,user119@example.com,Lagos,Personal,2023-03-18
+CU0120,Rebecca Brown,user120@example.com,Abuja,Personal,2020-02-22
+CU0121,Esther Balogun,user121@example.com,Abuja,Personal,2022-11-23
+CU0122,George Clark,user122@example.com,Enugu,Personal,2024-09-03
+CU0123,Zainab Okafor,user123@example.com,Kaduna,Business,2020-03-08
+CU0124,Halima Igwe,user124@example.com,Benin City,Personal,2023-11-19
+CU0125,Chioma Umeh,user125@example.com,Ibadan,Business,2024-03-19
+CU0126,Halima White,user126@example.com,Ibadan,Personal,2021-10-02
+CU0127,Linda Uche,user127@example.com,Benin City,Personal,2024-03-18
+CU0128,Musa Amadi,user128@example.com,Kaduna,Personal,2019-04-28
+CU0129,Rita Chukwu,user129@example.com,Port Harcourt,Business,2021-05-18
+CU0130,Victor Lawal,user130@example.com,Enugu,Personal,2022-02-05
+CU0131,Funke Okafor,user131@example.com,Kano,Personal,2021-09-15
+CU0132,Frank James,user132@example.com,Kano,Business,2024-07-03
+CU0133,Paul Bello,user133@example.com,Abuja,Personal,2021-06-26
+CU0134,Rebecca Davis,user134@example.com,Ibadan,Personal,2024-04-22
+CU0135,Funke Umeh,user135@example.com,Enugu,Business,2022-09-16
+CU0136,Victor Okoro,user136@example.com,Ibadan,Personal,2021-10-26
+CU0137,Joseph Abubakar,user137@example.com,Kano,Personal,2020-05-04
+CU0138,George Obi,user138@example.com,Kano,Personal,2024-06-06
+CU0139,Blessing White,user139@example.com,Ibadan,Personal,2021-03-06
+CU0140,Ibrahim Nwosu,user140@example.com,Enugu,Personal,2022-05-23
+CU0141,James Moore,user141@example.com,Port Harcourt,Personal,2019-07-06
+CU0142,Sarah Danjuma,user142@example.com,Ibadan,Personal,2024-07-03
+CU0143,Michael Okafor,user143@example.com,Ibadan,Business,2024-05-14
+CU0144,Paul Taylor,user144@example.com,Port Harcourt,Personal,2021-10-31
+CU0145,Andrew Abubakar,user145@example.com,Abuja,Business,2024-07-07
+CU0146,David Ojo,user146@example.com,Lagos,Personal,2020-09-03
+CU0147,Musa Sani,user147@example.com,Abuja,Personal,2020-04-30
+CU0148,Funke Nnamdi,user148@example.com,Kano,Business,2024-01-20
+CU0149,Paul Sani,user149@example.com,Kaduna,Personal,2019-09-04
+CU0150,Stella Williams,user150@example.com,Kano,Personal,2021-12-19
+CU0151,Linda Adamu,user151@example.com,Kano,Personal,2019-11-04
+CU0152,Peter Okafor,user152@example.com,Kaduna,Business,2024-04-08
+CU0153,Ibrahim Adeyemi,user153@example.com,Kano,Personal,2022-03-04
+CU0154,Kemi Mohammed,user154@example.com,Kano,Personal,2021-03-21
+CU0155,Halima Abubakar,user155@example.com,Kano,Personal,2021-12-24
+CU0156,Amina Mohammed,user156@example.com,Lagos,Personal,2022-06-13
+CU0157,Tobi Ojo,user157@example.com,Ibadan,Business,2020-05-24
+CU0158,Kemi Sani,user158@example.com,Kaduna,Personal,2024-08-11
+CU0159,George James,user159@example.com,Benin City,Personal,2019-06-13
+CU0160,Halima Chukwu,user160@example.com,Ibadan,Personal,2020-01-10
+CU0161,Joseph Ojo,user161@example.com,Lagos,Personal,2019-06-14
+CU0162,Chioma Hassan,user162@example.com,Benin City,Personal,2021-01-13
+CU0163,Helen Clark,user163@example.com,Benin City,Personal,2024-04-09
+CU0164,Victor Nnamdi,user164@example.com,Enugu,Personal,2020-03-04
+CU0165,Peter Taylor,user165@example.com,Kaduna,Business,2022-03-26
+CU0166,Rebecca Danjuma,user166@example.com,Lagos,Business,2019-12-27
+CU0167,Tunde Lawal,user167@example.com,Enugu,Personal,2023-07-14
+CU0168,Chinedu Okafor,user168@example.com,Benin City,Business,2019-08-11
+CU0169,Samuel Umeh,user169@example.com,Enugu,Business,2023-12-16
+CU0170,Sarah Yusuf,user170@example.com,Ibadan,Personal,2022-03-25
+CU0171,Paul James,user171@example.com,Abuja,Personal,2021-09-07
+CU0172,Peter Sani,user172@example.com,Lagos,Business,2020-01-17
+CU0173,Joseph Abubakar,user173@example.com,Benin City,Personal,2020-09-22
+CU0174,Rita Miller,user174@example.com,Ibadan,Business,2024-05-30
+CU0175,Andrew Davis,user175@example.com,Benin City,Personal,2023-04-21
+CU0176,Samuel Balogun,user176@example.com,Port Harcourt,Personal,2022-02-05
+CU0177,Frank Taylor,user177@example.com,Ibadan,Personal,2022-03-04
+CU0178,Esther White,user178@example.com,Benin City,Personal,2024-01-04
+CU0179,George Hassan,user179@example.com,Enugu,Personal,2023-03-26
+CU0180,Kemi Chukwu,user180@example.com,Kano,Personal,2023-04-18
+CU0181,Joseph Nnamdi,user181@example.com,Lagos,Personal,2024-04-21
+CU0182,Ahmed Wilson,user182@example.com,Port Harcourt,Business,2019-06-01
+CU0183,Daniel Aliyu,user183@example.com,Enugu,Personal,2023-12-09
+CU0184,Michael Umeh,user184@example.com,Benin City,Personal,2020-08-13
+CU0185,Frank Smith,user185@example.com,Abuja,Business,2021-12-21
+CU0186,Zainab Amadi,user186@example.com,Kaduna,Personal,2022-09-07
+CU0187,George Wilson,user187@example.com,Enugu,Business,2019-05-28
+CU0188,Stella Mohammed,user188@example.com,Kano,Personal,2021-07-20
+CU0189,Linda Clark,user189@example.com,Abuja,Personal,2023-12-23
+CU0190,Peter Sani,user190@example.com,Lagos,Personal,2022-08-21
+CU0191,Sarah Miller,user191@example.com,Enugu,Personal,2023-10-31
+CU0192,Amina Davis,user192@example.com,Kaduna,Personal,2020-11-27
+CU0193,Chioma Eze,user193@example.com,Kaduna,Personal,2024-07-31
+CU0194,Helen Smith,user194@example.com,Kano,Business,2021-11-06
+CU0195,Kemi Lawal,user195@example.com,Lagos,Business,2022-03-24
+CU0196,George Adamu,user196@example.com,Abuja,Business,2022-11-16
+CU0197,Helen Sani,user197@example.com,Kaduna,Personal,2024-02-15
+CU0198,Esther Brown,user198@example.com,Kaduna,Business,2020-03-12
+CU0199,Ngozi Wilson,user199@example.com,Enugu,Personal,2022-04-24
+CU0200,Mary Idris,user200@example.com,Ibadan,Personal,2019-07-20
+CU0201,Tobi James,user201@example.com,Ibadan,Personal,2022-12-14
+CU0202,Joseph Brown,user202@example.com,Ibadan,Personal,2020-02-02
+CU0203,John Sani,user203@example.com,Benin City,Personal,2023-02-03
+CU0204,Daniel Eze,user204@example.com,Ibadan,Personal,2023-08-29
+CU0205,Chioma Brown,user205@example.com,Port Harcourt,Personal,2024-12-14
+CU0206,Chinedu Uche,user206@example.com,Port Harcourt,Personal,2024-05-27
+CU0207,Ibrahim Taylor,user207@example.com,Abuja,Business,2019-11-05
+CU0208,Amina Nwosu,user208@example.com,Kaduna,Personal,2020-01-05
+CU0209,Rebecca Okafor,user209@example.com,Ibadan,Personal,2024-02-06
+CU0210,Joy Lawal,user210@example.com,Kaduna,Personal,2020-03-19
+CU0211,Joseph Hassan,user211@example.com,Lagos,Personal,2021-06-25
+CU0212,David Okoro,user212@example.com,Ibadan,Business,2020-04-22
+CU0213,Daniel Adeyemi,user213@example.com,Lagos,Personal,2024-07-10
+CU0214,Grace Williams,user214@example.com,Kano,Personal,2023-05-11
+CU0215,Kemi Igwe,user215@example.com,Kaduna,Personal,2023-08-27
+CU0216,Michael James,user216@example.com,Kaduna,Personal,2019-05-15
+CU0217,Joy Yusuf,user217@example.com,Benin City,Business,2021-08-25
+CU0218,Joy Williams,user218@example.com,Enugu,Personal,2019-09-06
+CU0219,Rebecca Uche,user219@example.com,Kano,Personal,2024-02-06
+CU0220,Linda Yusuf,user220@example.com,Lagos,Personal,2022-09-28
+CU0221,Ngozi Okonkwo,user221@example.com,Kano,Personal,2021-04-28
+CU0222,Helen Yusuf,user222@example.com,Kano,Personal,2020-08-27
+CU0223,Tobi Okafor,user223@example.com,Ibadan,Personal,2020-06-16
+CU0224,George Lawal,user224@example.com,Port Harcourt,Personal,2019-04-16
+CU0225,Daniel Okafor,user225@example.com,Enugu,Personal,2022-08-19
+CU0226,Mary Obi,user226@example.com,Ibadan,Personal,2020-06-03
+CU0227,Frank Umeh,user227@example.com,Abuja,Personal,2024-05-04
+CU0228,Paul Igwe,user228@example.com,Abuja,Business,2024-08-25
+CU0229,Joseph Amadi,user229@example.com,Lagos,Personal,2024-02-20
+CU0230,Mary Johnson,user230@example.com,Benin City,Business,2023-10-13
+CU0231,Michael James,user231@example.com,Benin City,Personal,2019-11-27
+CU0232,Tunde Balogun,user232@example.com,Port Harcourt,Personal,2020-05-31
+CU0233,Blessing Amadi,user233@example.com,Enugu,Business,2024-12-13
+CU0234,Ibrahim Okoro,user234@example.com,Kaduna,Personal,2020-04-13
+CU0235,Funke Yusuf,user235@example.com,Kaduna,Business,2021-07-24
+CU0236,Frank Taylor,user236@example.com,Benin City,Business,2023-08-31
+CU0237,Michael Chukwu,user237@example.com,Kaduna,Personal,2021-11-10
+CU0238,Joy Smith,user238@example.com,Benin City,Personal,2020-01-09
+CU0239,Linda Eze,user239@example.com,Kaduna,Personal,2023-03-07
+CU0240,Daniel Danjuma,user240@example.com,Lagos,Personal,2020-05-15
+CU0241,Frank Garba,user241@example.com,Kaduna,Personal,2022-03-24
+CU0242,Tobi Sani,user242@example.com,Enugu,Personal,2024-09-09
+CU0243,Fatima Smith,user243@example.com,Benin City,Personal,2020-03-19
+CU0244,Victor Danjuma,user244@example.com,Enugu,Personal,2022-02-15
+CU0245,Musa Nwosu,user245@example.com,Kaduna,Personal,2021-12-31
+CU0246,Mary Obi,user246@example.com,Ibadan,Personal,2022-10-23
+CU0247,Victor Okafor,user247@example.com,Port Harcourt,Personal,2023-06-30
+CU0248,David Smith,user248@example.com,Lagos,Personal,2024-12-12
+CU0249,Fatima Wilson,user249@example.com,Kaduna,Business,2022-10-28
+CU0250,Peter Igwe,user250@example.com,Ibadan,Personal,2019-12-14
+CU0251,Sarah Smith,user251@example.com,Port Harcourt,Personal,2019-12-01
+CU0252,Blessing Suleiman,user252@example.com,Kaduna,Business,2023-12-16
+CU0253,Frank Uche,user253@example.com,Kano,Personal,2022-11-14
+CU0254,Halima Abubakar,user254@example.com,Ibadan,Business,2024-11-28
+CU0255,Esther Adeyemi,user255@example.com,Kano,Business,2019-08-13
+CU0256,James Yusuf,user256@example.com,Ibadan,Personal,2020-07-16
+CU0257,Emeka Miller,user257@example.com,Enugu,Personal,2019-02-01
+CU0258,Rita Clark,user258@example.com,Port Harcourt,Personal,2023-04-07
+CU0259,George Nwosu,user259@example.com,Enugu,Personal,2023-06-15
+CU0260,John Clark,user260@example.com,Lagos,Business,2019-11-15
+CU0261,Tunde Ojo,user261@example.com,Kaduna,Business,2023-09-07
+CU0262,Ibrahim Abubakar,user262@example.com,Kaduna,Personal,2022-08-23
+CU0263,Peter Amadi,user263@example.com,Benin City,Personal,2019-12-27
+CU0264,Halima Williams,user264@example.com,Kano,Business,2023-06-29
+CU0265,Aisha Eze,user265@example.com,Kaduna,Personal,2022-10-22
+CU0266,Joseph Taylor,user266@example.com,Port Harcourt,Personal,2024-09-21
+CU0267,Grace Umeh,user267@example.com,Kano,Personal,2022-12-09
+CU0268,Amina Davis,user268@example.com,Abuja,Personal,2021-11-14
+CU0269,Samuel Obi,user269@example.com,Port Harcourt,Personal,2020-12-26
+CU0270,Rita Okoro,user270@example.com,Benin City,Personal,2022-07-18
+CU0271,Amina Suleiman,user271@example.com,Abuja,Business,2023-12-17
+CU0272,Esther Uche,user272@example.com,Lagos,Personal,2024-09-09
+CU0273,David Sani,user273@example.com,Benin City,Business,2019-06-04
+CU0274,Sarah Igwe,user274@example.com,Ibadan,Personal,2020-01-05
+CU0275,Stella Balogun,user275@example.com,Kaduna,Business,2019-06-18
+CU0276,Paul Ojo,user276@example.com,Kano,Personal,2024-05-02
+CU0277,Chinedu Smith,user277@example.com,Lagos,Business,2020-02-28
+CU0278,Zainab Eze,user278@example.com,Port Harcourt,Personal,2021-10-11
+CU0279,Paul Suleiman,user279@example.com,Port Harcourt,Personal,2023-03-08
+CU0280,Ibrahim Wilson,user280@example.com,Kaduna,Personal,2019-08-03
+CU0281,Zainab Mohammed,user281@example.com,Enugu,Personal,2023-05-03
+CU0282,Ibrahim Lawal,user282@example.com,Port Harcourt,Personal,2019-11-30
+CU0283,Helen Smith,user283@example.com,Enugu,Personal,2023-05-25
+CU0284,Daniel Balogun,user284@example.com,Abuja,Personal,2023-03-23
+CU0285,Zainab Okonkwo,user285@example.com,Abuja,Business,2024-09-13
+CU0286,Joy Bello,user286@example.com,Enugu,Personal,2021-01-08
+CU0287,Fatima Taylor,user287@example.com,Benin City,Personal,2021-07-16
+CU0288,Daniel Smith,user288@example.com,Abuja,Personal,2020-02-19
+CU0289,Chinedu Moore,user289@example.com,Lagos,Personal,2020-06-20
+CU0290,Tobi Wilson,user290@example.com,Port Harcourt,Personal,2021-01-10
+CU0291,Stella Adamu,user291@example.com,Benin City,Personal,2023-08-10
+CU0292,Joy Davis,user292@example.com,Benin City,Personal,2024-01-13
+CU0293,Joseph Moore,user293@example.com,Kano,Personal,2024-04-05
+CU0294,Samuel Igwe,user294@example.com,Benin City,Business,2022-02-28
+CU0295,Ahmed Aliyu,user295@example.com,Kaduna,Personal,2021-03-28
+CU0296,Tobi Okonkwo,user296@example.com,Ibadan,Personal,2024-05-22
+CU0297,Joy Danjuma,user297@example.com,Abuja,Personal,2022-03-13
+CU0298,Linda Adamu,user298@example.com,Ibadan,Business,2024-10-03
+CU0299,Amina Clark,user299@example.com,Abuja,Personal,2024-01-22
+CU0300,Victor Bello,user300@example.com,Kaduna,Personal,2023-06-12

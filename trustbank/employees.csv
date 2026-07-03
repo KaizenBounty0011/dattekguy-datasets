@@ -1,0 +1,61 @@
+employee_id,name,branch_id,position,monthly_salary,hire_date
+EM001,Rita Igwe,BR07,Customer Service,180000,2023-06-05
+EM002,Stella Hassan,BR07,Loan Officer,293000,2020-12-06
+EM003,Chinedu Miller,BR07,Accountant,320000,2016-11-05
+EM004,Musa Miller,BR06,Customer Service,155000,2015-03-30
+EM005,Frank Okonkwo,BR06,Customer Service,140000,2019-08-20
+EM006,Daniel Ojo,BR07,IT Support,371000,2019-04-19
+EM007,Zainab Abubakar,BR03,Branch Manager,536000,2024-09-18
+EM008,Daniel Suleiman,BR07,Loan Officer,323000,2017-01-04
+EM009,Joseph Chukwu,BR01,IT Support,408000,2019-12-11
+EM010,Fatima Lawal,BR05,IT Support,347000,2015-10-26
+EM011,Musa Abubakar,BR05,Teller,185000,2024-09-28
+EM012,James Obi,BR03,Loan Officer,285000,2018-04-13
+EM013,Kemi Danjuma,BR01,Accountant,336000,2018-11-13
+EM014,Musa Okoro,BR03,Accountant,347000,2016-04-21
+EM015,Ibrahim Johnson,BR08,Branch Manager,533000,2017-04-13
+EM016,Stella Umeh,BR03,Customer Service,151000,2018-04-13
+EM017,Funke Smith,BR04,Accountant,324000,2019-12-27
+EM018,Sarah Ojo,BR05,Teller,170000,2015-09-20
+EM019,Rita Idris,BR08,Loan Officer,261000,2019-06-08
+EM020,Frank Nwosu,BR03,Customer Service,206000,2019-10-13
+EM021,James Abubakar,BR02,Customer Service,157000,2024-11-26
+EM022,Mary Johnson,BR05,Teller,194000,2018-01-04
+EM023,Ahmed Lawal,BR04,Teller,156000,2023-06-11
+EM024,Halima Suleiman,BR07,Customer Service,142000,2023-11-10
+EM025,Peter Moore,BR07,Branch Manager,593000,2023-02-12
+EM026,Fatima Wilson,BR01,Teller,172000,2022-03-06
+EM027,Tobi Miller,BR07,Customer Service,216000,2016-06-29
+EM028,Funke Igwe,BR07,Teller,165000,2021-05-16
+EM029,Grace Brown,BR03,Teller,163000,2021-12-21
+EM030,Linda Ojo,BR04,Loan Officer,307000,2015-07-24
+EM031,David Williams,BR06,Teller,167000,2019-05-23
+EM032,Andrew Garba,BR01,Teller,199000,2024-11-04
+EM033,Fatima Umeh,BR01,Teller,166000,2017-11-11
+EM034,Sarah Miller,BR01,Teller,164000,2017-09-18
+EM035,Victor Idris,BR07,Teller,195000,2018-10-24
+EM036,Fatima Taylor,BR04,Teller,196000,2022-02-11
+EM037,Blessing Aliyu,BR04,Teller,191000,2018-06-24
+EM038,Tunde Garba,BR01,Accountant,325000,2015-06-22
+EM039,James Williams,BR07,IT Support,396000,2018-07-25
+EM040,Ibrahim Suleiman,BR02,Loan Officer,322000,2024-06-05
+EM041,Funke Lawal,BR01,Accountant,311000,2021-10-27
+EM042,Amina Okoro,BR02,Teller,181000,2021-10-19
+EM043,Funke Yusuf,BR08,Branch Manager,543000,2019-11-21
+EM044,Michael Igwe,BR07,Teller,184000,2023-12-17
+EM045,Halima Abubakar,BR02,Branch Manager,602000,2021-05-28
+EM046,Ahmed Suleiman,BR06,Accountant,374000,2023-04-03
+EM047,Samuel Brown,BR03,Branch Manager,582000,2015-09-26
+EM048,John Chukwu,BR01,Accountant,342000,2021-01-05
+EM049,Joy Brown,BR05,Customer Service,185000,2022-03-21
+EM050,David White,BR06,Branch Manager,584000,2018-09-02
+EM051,Amina Moore,BR06,Accountant,331000,2019-02-02
+EM052,Ngozi White,BR03,Customer Service,176000,2016-10-14
+EM053,Rebecca Smith,BR02,Loan Officer,319000,2023-09-17
+EM054,Zainab Danjuma,BR01,Accountant,308000,2022-08-22
+EM055,George Uche,BR07,Loan Officer,314000,2021-02-22
+EM056,Tobi Yusuf,BR01,Accountant,325000,2015-01-27
+EM057,Chinedu Taylor,BR04,Teller,150000,2024-04-05
+EM058,Chioma Hassan,BR07,Accountant,355000,2021-08-23
+EM059,Joseph Lawal,BR06,Branch Manager,538000,2022-02-26
+EM060,Sarah Adamu,BR06,Loan Officer,276000,2024-10-23

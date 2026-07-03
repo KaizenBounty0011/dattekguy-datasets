@@ -1,0 +1,201 @@
+customer_id,name,city,loyalty_member,join_date
+CU0001,Esther Clark,Kaduna,Yes,2023-05-17
+CU0002,Helen Ojo,Benin City,Yes,2020-04-02
+CU0003,Chinedu Williams,Kaduna,Yes,2020-10-27
+CU0004,Grace Davis,Kano,No,2024-03-21
+CU0005,Tunde Obi,Abuja,No,2021-12-07
+CU0006,Victor Sani,Ibadan,No,2020-09-25
+CU0007,Amina Hassan,Lagos,Yes,2024-11-23
+CU0008,Emeka Umeh,Benin City,No,2024-04-30
+CU0009,Emeka Adamu,Port Harcourt,No,2023-06-10
+CU0010,Paul Brown,Lagos,Yes,2022-10-03
+CU0011,Emeka Aliyu,Enugu,Yes,2022-12-10
+CU0012,Fatima Suleiman,Ibadan,Yes,2020-10-24
+CU0013,Sarah Johnson,Kaduna,Yes,2024-08-28
+CU0014,Funke Davis,Lagos,No,2022-09-25
+CU0015,Ngozi Clark,Kaduna,No,2024-04-06
+CU0016,Joy Aliyu,Enugu,No,2022-09-23
+CU0017,Linda Chukwu,Benin City,Yes,2021-04-08
+CU0018,Joseph Taylor,Kano,Yes,2022-10-18
+CU0019,Helen Adeyemi,Port Harcourt,Yes,2022-12-29
+CU0020,Helen Miller,Lagos,No,2022-06-13
+CU0021,Tobi Miller,Benin City,No,2024-04-09
+CU0022,Michael Amadi,Port Harcourt,No,2024-02-21
+CU0023,Aisha Abubakar,Port Harcourt,Yes,2022-08-02
+CU0024,Tobi Idris,Port Harcourt,No,2023-01-12
+CU0025,John Ojo,Enugu,Yes,2020-11-23
+CU0026,Emeka Okonkwo,Benin City,No,2022-05-23
+CU0027,Grace Suleiman,Kano,No,2020-11-05
+CU0028,Sarah Eze,Benin City,Yes,2020-05-10
+CU0029,Grace Suleiman,Enugu,No,2021-11-12
+CU0030,Rebecca Okoro,Benin City,No,2022-09-09
+CU0031,Ngozi Igwe,Abuja,Yes,2024-12-27
+CU0032,Frank Okoro,Ibadan,No,2021-06-17
+CU0033,Tobi Balogun,Lagos,No,2020-09-11
+CU0034,Rebecca James,Benin City,Yes,2021-04-26
+CU0035,Mary Adamu,Ibadan,Yes,2021-03-24
+CU0036,James Okafor,Kano,Yes,2021-09-11
+CU0037,Grace Moore,Benin City,Yes,2024-05-15
+CU0038,Tunde Chukwu,Lagos,Yes,2023-06-17
+CU0039,Samuel Johnson,Kano,Yes,2021-01-24
+CU0040,Joy Uche,Kano,Yes,2024-08-20
+CU0041,Ngozi Suleiman,Kano,Yes,2020-11-05
+CU0042,Musa Igwe,Lagos,No,2023-02-02
+CU0043,Chinedu Moore,Abuja,No,2023-12-08
+CU0044,Joy Ojo,Benin City,Yes,2020-10-09
+CU0045,Chioma White,Port Harcourt,No,2022-12-11
+CU0046,John Amadi,Port Harcourt,Yes,2024-12-12
+CU0047,Musa Moore,Kaduna,Yes,2024-11-25
+CU0048,Musa Williams,Lagos,No,2020-12-31
+CU0049,Mary Uche,Kaduna,No,2023-02-24
+CU0050,Frank Brown,Lagos,Yes,2023-01-16
+CU0051,David Wilson,Abuja,No,2023-01-21
+CU0052,Rebecca Hassan,Lagos,No,2023-08-22
+CU0053,Ahmed Amadi,Kaduna,No,2021-07-12
+CU0054,Blessing White,Abuja,Yes,2023-01-22
+CU0055,Victor Eze,Lagos,Yes,2021-12-03
+CU0056,Emeka Adamu,Benin City,Yes,2021-10-23
+CU0057,Zainab Okoro,Kano,Yes,2024-02-17
+CU0058,Michael Aliyu,Lagos,No,2020-10-04
+CU0059,Zainab Aliyu,Ibadan,Yes,2024-10-15
+CU0060,Joseph Bello,Port Harcourt,Yes,2023-08-05
+CU0061,Andrew Obi,Benin City,No,2020-11-20
+CU0062,Grace Garba,Port Harcourt,No,2024-05-13
+CU0063,Amina Davis,Abuja,Yes,2023-12-06
+CU0064,Blessing Nwosu,Ibadan,Yes,2024-01-31
+CU0065,Ahmed Wilson,Kano,Yes,2022-05-05
+CU0066,Kemi Suleiman,Enugu,No,2020-09-27
+CU0067,Kemi Suleiman,Benin City,Yes,2023-08-31
+CU0068,Musa Aliyu,Ibadan,No,2020-02-24
+CU0069,Victor Brown,Ibadan,No,2024-02-05
+CU0070,Zainab Suleiman,Ibadan,Yes,2023-06-10
+CU0071,Ahmed Moore,Kano,No,2023-11-15
+CU0072,George Clark,Benin City,Yes,2022-05-24
+CU0073,Ibrahim Idris,Port Harcourt,Yes,2023-03-02
+CU0074,Linda James,Benin City,Yes,2022-03-08
+CU0075,Mary Chukwu,Kano,Yes,2023-01-18
+CU0076,David Eze,Lagos,Yes,2020-03-06
+CU0077,Andrew Hassan,Kano,Yes,2024-09-08
+CU0078,Aisha Adamu,Kaduna,Yes,2022-09-03
+CU0079,Emeka Mohammed,Benin City,Yes,2021-03-01
+CU0080,Chioma Obi,Enugu,Yes,2024-02-10
+CU0081,Chinedu Eze,Kano,Yes,2023-07-03
+CU0082,Amina Adamu,Benin City,No,2023-08-21
+CU0083,Ibrahim Igwe,Ibadan,No,2024-01-27
+CU0084,Ibrahim Miller,Benin City,Yes,2022-06-27
+CU0085,Aisha James,Port Harcourt,No,2021-08-01
+CU0086,Paul Okoro,Abuja,No,2021-09-30
+CU0087,Mary Nnamdi,Kaduna,No,2022-07-09
+CU0088,Musa Ojo,Ibadan,Yes,2024-11-11
+CU0089,James Wilson,Abuja,Yes,2022-08-25
+CU0090,Halima Balogun,Port Harcourt,Yes,2022-07-16
+CU0091,Ahmed Eze,Port Harcourt,No,2024-01-15
+CU0092,Tobi Yusuf,Lagos,No,2022-11-26
+CU0093,Rita Ojo,Lagos,Yes,2020-12-28
+CU0094,Chinedu Mohammed,Port Harcourt,Yes,2020-11-26
+CU0095,Rebecca Yusuf,Enugu,Yes,2022-01-18
+CU0096,Halima Hassan,Abuja,Yes,2020-12-20
+CU0097,Ahmed Adamu,Port Harcourt,No,2024-03-28
+CU0098,Michael Balogun,Kano,Yes,2021-10-11
+CU0099,Frank Okonkwo,Ibadan,No,2021-04-15
+CU0100,Rita Obi,Port Harcourt,No,2020-02-27
+CU0101,Michael Adamu,Enugu,Yes,2020-04-29
+CU0102,John Lawal,Kano,Yes,2020-04-05
+CU0103,Musa Mohammed,Port Harcourt,Yes,2020-11-10
+CU0104,Ibrahim Hassan,Kaduna,No,2022-06-01
+CU0105,Kemi Aliyu,Kano,Yes,2021-01-29
+CU0106,Michael James,Port Harcourt,No,2020-04-12
+CU0107,Stella Amadi,Kano,No,2021-12-18
+CU0108,Linda Yusuf,Benin City,No,2024-12-20
+CU0109,George Lawal,Abuja,No,2024-02-17
+CU0110,Michael Balogun,Kaduna,No,2023-02-27
+CU0111,Stella Williams,Ibadan,No,2020-05-19
+CU0112,Stella Smith,Lagos,No,2023-06-26
+CU0113,Halima Garba,Kano,No,2020-07-05
+CU0114,Musa Lawal,Lagos,No,2022-04-05
+CU0115,George Miller,Enugu,Yes,2023-11-22
+CU0116,Emeka Johnson,Abuja,Yes,2024-09-07
+CU0117,Kemi Igwe,Port Harcourt,No,2023-12-20
+CU0118,Tobi Amadi,Benin City,Yes,2020-10-12
+CU0119,Zainab Hassan,Enugu,Yes,2020-09-20
+CU0120,Chioma Taylor,Kano,Yes,2023-09-17
+CU0121,Peter Obi,Benin City,Yes,2022-02-02
+CU0122,Blessing Miller,Enugu,No,2023-07-04
+CU0123,James Davis,Lagos,No,2023-03-26
+CU0124,Tunde Moore,Port Harcourt,No,2021-05-29
+CU0125,Halima Hassan,Benin City,Yes,2021-05-01
+CU0126,Stella Wilson,Benin City,No,2022-12-01
+CU0127,Samuel Ojo,Lagos,No,2021-10-16
+CU0128,Linda Nnamdi,Kano,Yes,2022-03-31
+CU0129,Halima Obi,Kaduna,No,2023-06-26
+CU0130,Esther Okafor,Lagos,No,2021-03-03
+CU0131,Kemi Okonkwo,Port Harcourt,Yes,2022-10-20
+CU0132,Ahmed Uche,Lagos,Yes,2022-03-30
+CU0133,David Miller,Enugu,No,2021-05-28
+CU0134,Mary Obi,Abuja,No,2022-02-22
+CU0135,Zainab Bello,Enugu,No,2023-02-21
+CU0136,Esther Mohammed,Ibadan,Yes,2024-07-12
+CU0137,Daniel Moore,Kano,No,2023-12-31
+CU0138,Rebecca Adeyemi,Port Harcourt,Yes,2024-09-11
+CU0139,Helen Nwosu,Enugu,Yes,2020-06-16
+CU0140,Rita Sani,Kaduna,Yes,2022-04-30
+CU0141,Stella Davis,Lagos,No,2023-01-08
+CU0142,Emeka Idris,Lagos,No,2020-01-13
+CU0143,Emeka Nwosu,Enugu,Yes,2022-09-24
+CU0144,Joy Balogun,Kano,Yes,2022-06-15
+CU0145,Peter Clark,Abuja,Yes,2023-01-13
+CU0146,Emeka Chukwu,Kaduna,Yes,2023-08-13
+CU0147,David Lawal,Benin City,No,2020-07-31
+CU0148,Chioma Nnamdi,Enugu,Yes,2022-12-16
+CU0149,George Balogun,Benin City,No,2021-11-17
+CU0150,Chinedu Chukwu,Kano,No,2023-04-24
+CU0151,Tobi Hassan,Abuja,No,2023-12-27
+CU0152,Frank Aliyu,Lagos,No,2021-11-06
+CU0153,David Williams,Benin City,No,2023-08-11
+CU0154,Esther Hassan,Kano,Yes,2020-06-20
+CU0155,Andrew Suleiman,Enugu,No,2021-10-13
+CU0156,Kemi Miller,Benin City,No,2020-02-17
+CU0157,Rebecca Adeyemi,Enugu,No,2023-02-04
+CU0158,Chinedu Brown,Ibadan,No,2024-10-31
+CU0159,Frank Miller,Kano,Yes,2024-10-14
+CU0160,Kemi Igwe,Ibadan,Yes,2020-05-25
+CU0161,Tunde Clark,Enugu,Yes,2022-08-26
+CU0162,Kemi Johnson,Abuja,No,2024-07-30
+CU0163,Ahmed Adamu,Kaduna,No,2024-12-23
+CU0164,Stella Ojo,Abuja,Yes,2024-08-10
+CU0165,Joy Okonkwo,Benin City,Yes,2020-02-24
+CU0166,John Danjuma,Enugu,No,2022-03-26
+CU0167,Ngozi Williams,Kaduna,No,2023-12-31
+CU0168,Frank Adeyemi,Kaduna,No,2023-07-23
+CU0169,Esther Ojo,Kano,Yes,2021-05-03
+CU0170,Rita Taylor,Enugu,Yes,2022-11-21
+CU0171,Aisha Brown,Kano,Yes,2023-09-01
+CU0172,Linda Lawal,Kano,Yes,2022-01-02
+CU0173,Ibrahim Aliyu,Enugu,Yes,2022-10-24
+CU0174,Chioma Okafor,Kaduna,No,2022-06-09
+CU0175,Tunde Yusuf,Ibadan,No,2023-06-04
+CU0176,Paul Eze,Lagos,Yes,2020-02-13
+CU0177,Amina Moore,Abuja,Yes,2020-03-21
+CU0178,Mary Yusuf,Port Harcourt,No,2022-03-28
+CU0179,Frank Eze,Benin City,Yes,2022-11-06
+CU0180,Chinedu Idris,Ibadan,No,2023-11-22
+CU0181,Stella White,Abuja,No,2020-10-21
+CU0182,Rita James,Kaduna,No,2020-01-08
+CU0183,Amina Balogun,Ibadan,Yes,2021-12-26
+CU0184,Sarah Eze,Port Harcourt,Yes,2024-07-22
+CU0185,Musa Abubakar,Enugu,Yes,2022-01-24
+CU0186,Samuel Okoro,Enugu,Yes,2022-09-12
+CU0187,David White,Benin City,No,2024-03-06
+CU0188,Rebecca Abubakar,Kaduna,Yes,2021-08-14
+CU0189,Daniel Balogun,Kano,Yes,2022-12-22
+CU0190,Mary Abubakar,Lagos,No,2024-12-12
+CU0191,John Abubakar,Benin City,No,2024-03-25
+CU0192,Ibrahim Sani,Kaduna,Yes,2023-01-09
+CU0193,Joseph Miller,Kaduna,No,2023-03-22
+CU0194,Grace James,Enugu,Yes,2022-07-22
+CU0195,Funke Brown,Abuja,Yes,2021-02-23
+CU0196,Joseph Abubakar,Enugu,Yes,2021-07-12
+CU0197,Tobi James,Kaduna,Yes,2020-07-30
+CU0198,Rita Miller,Abuja,Yes,2024-09-15
+CU0199,Joseph Suleiman,Enugu,Yes,2021-09-02
+CU0200,Michael Wilson,Ibadan,No,2023-11-23

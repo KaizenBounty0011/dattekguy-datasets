@@ -1,0 +1,7 @@
+rig_id,rig_name,location,rig_type,capacity_bpd,year_commissioned
+RG01,Alpha-1,Brass,Offshore,58000,2008
+RG02,Bravo-2,Niger Delta,Onshore,20000,2012
+RG03,Delta-3,Warri,Onshore,20000,2012
+RG04,Echo-4,Brass,Offshore,36000,1995
+RG05,Falcon-5,Warri,Onshore,91000,2000
+RG06,Gulf-6,Warri,Offshore,80000,2009

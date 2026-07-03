@@ -1,0 +1,42 @@
+product_id,product_name,category,unit_price,cost_price,supplier
+PD001,Rice 5kg,Groceries,3754,2395,Prime Imports
+PD002,Beans 2kg,Groceries,4529,2920,MegaSupply Ltd
+PD003,Garri 2kg,Groceries,6235,4523,Naija Distributors
+PD004,Spaghetti,Groceries,4324,2904,MegaSupply Ltd
+PD005,Tomato Paste,Groceries,912,737,GoldLine Traders
+PD006,Vegetable Oil 1L,Groceries,5275,3269,GoldLine Traders
+PD007,Sugar 1kg,Groceries,6571,4699,MegaSupply Ltd
+PD008,Salt,Groceries,3556,2435,MegaSupply Ltd
+PD009,Flour 2kg,Groceries,5020,3403,GoldLine Traders
+PD010,Noodles Pack,Groceries,6383,5385,GoldLine Traders
+PD011,Coca-Cola 50cl,Drinks,492,371,GoldLine Traders
+PD012,Bottled Water,Drinks,655,495,Naija Distributors
+PD013,Orange Juice 1L,Drinks,432,269,Naija Distributors
+PD014,Malt Drink,Drinks,412,304,Naija Distributors
+PD015,Energy Drink,Drinks,691,548,Prime Imports
+PD016,Yoghurt 50cl,Drinks,1467,1125,MegaSupply Ltd
+PD017,Detergent 1kg,Household,5732,3671,Naija Distributors
+PD018,Toilet Paper 4pk,Household,5356,3315,Prime Imports
+PD019,Dish Soap,Household,1711,1190,MegaSupply Ltd
+PD020,Broom,Household,5655,4308,GoldLine Traders
+PD021,Light Bulb,Household,1492,907,GoldLine Traders
+PD022,Batteries AA,Household,4319,3148,MegaSupply Ltd
+PD023,Insecticide Spray,Household,2300,1441,GoldLine Traders
+PD024,Phone Charger,Electronics,26387,16737,GoldLine Traders
+PD025,Earphones,Electronics,16385,10079,MegaSupply Ltd
+PD026,Extension Box,Electronics,10576,7087,MegaSupply Ltd
+PD027,Blender,Electronics,15892,9597,MegaSupply Ltd
+PD028,Electric Kettle,Electronics,8913,5817,GoldLine Traders
+PD029,Standing Fan,Electronics,29306,19798,GoldLine Traders
+PD030,Toothpaste,Personal Care,1814,1126,Naija Distributors
+PD031,Bath Soap,Personal Care,4109,3125,MegaSupply Ltd
+PD032,Body Lotion,Personal Care,3341,2285,Naija Distributors
+PD033,Shampoo,Personal Care,1390,1143,Prime Imports
+PD034,Sanitary Pads,Personal Care,492,411,Naija Distributors
+PD035,Hand Sanitizer,Personal Care,3801,2331,GoldLine Traders
+PD036,Biscuits,Snacks,2507,1796,Prime Imports
+PD037,Chin Chin,Snacks,2709,2020,Prime Imports
+PD038,Plantain Chips,Snacks,952,654,Prime Imports
+PD039,Chocolate Bar,Snacks,2854,2268,MegaSupply Ltd
+PD040,Popcorn,Snacks,460,300,MegaSupply Ltd
+PD041,Cashew Nuts,Snacks,2034,1571,GoldLine Traders

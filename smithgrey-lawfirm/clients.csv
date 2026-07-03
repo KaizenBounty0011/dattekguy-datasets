@@ -1,0 +1,121 @@
+client_id,name,client_type,city,signed_date
+CL001,Moore Holdings Ltd,Corporate,Port Harcourt,2019-07-24
+CL002,Smith Holdings Ltd,Corporate,Kano,2019-07-13
+CL003,Ahmed Danjuma,Individual,Benin City,2019-07-17
+CL004,Sarah Nwosu,Individual,Benin City,2020-05-01
+CL005,Rita Danjuma,Individual,Ibadan,2018-08-07
+CL006,David Yusuf,Individual,Kaduna,2023-07-08
+CL007,Aisha Chukwu,Individual,Benin City,2023-08-16
+CL008,Sarah Lawal,Individual,Enugu,2021-09-04
+CL009,Wilson Holdings Ltd,Corporate,Enugu,2023-01-15
+CL010,Idris Holdings Ltd,Corporate,Enugu,2023-03-01
+CL011,Wilson Holdings Ltd,Corporate,Lagos,2018-08-10
+CL012,Zainab Mohammed,Individual,Port Harcourt,2022-06-09
+CL013,Hassan Holdings Ltd,Corporate,Kaduna,2020-12-05
+CL014,Lawal Holdings Ltd,Corporate,Ibadan,2020-05-29
+CL015,Joseph Adamu,Individual,Benin City,2018-05-30
+CL016,Frank Williams,Individual,Ibadan,2022-11-15
+CL017,Samuel Lawal,Individual,Ibadan,2019-12-29
+CL018,Sarah Miller,Individual,Port Harcourt,2018-12-26
+CL019,Aliyu Holdings Ltd,Corporate,Kaduna,2022-12-20
+CL020,Kemi Williams,Individual,Enugu,2019-07-17
+CL021,Ngozi Chukwu,Individual,Abuja,2024-06-10
+CL022,Musa Umeh,Individual,Enugu,2018-03-30
+CL023,Frank Igwe,Individual,Abuja,2020-08-22
+CL024,Tunde Danjuma,Individual,Enugu,2018-07-23
+CL025,Eze Holdings Ltd,Corporate,Ibadan,2020-02-08
+CL026,Chioma Ojo,Individual,Benin City,2022-09-30
+CL027,Fatima Obi,Individual,Benin City,2024-08-17
+CL028,Johnson Holdings Ltd,Corporate,Ibadan,2019-06-12
+CL029,Fatima Danjuma,Individual,Abuja,2018-01-07
+CL030,John Aliyu,Individual,Abuja,2023-07-05
+CL031,John Igwe,Individual,Port Harcourt,2019-06-04
+CL032,Eze Holdings Ltd,Corporate,Ibadan,2021-12-02
+CL033,Ibrahim White,Individual,Kaduna,2022-01-22
+CL034,Balogun Holdings Ltd,Corporate,Lagos,2021-09-29
+CL035,Andrew Bello,Individual,Port Harcourt,2021-12-10
+CL036,Amadi Holdings Ltd,Corporate,Kaduna,2019-01-27
+CL037,Ibrahim Yusuf,Individual,Enugu,2023-08-26
+CL038,John Sani,Individual,Lagos,2023-06-06
+CL039,Joy Abubakar,Individual,Kano,2018-06-14
+CL040,David Okafor,Individual,Port Harcourt,2019-07-28
+CL041,Rebecca Danjuma,Individual,Benin City,2021-03-23
+CL042,Samuel Okoro,Individual,Abuja,2021-03-03
+CL043,Ngozi Smith,Individual,Lagos,2021-03-06
+CL044,Linda Amadi,Individual,Port Harcourt,2022-12-22
+CL045,Ngozi Eze,Individual,Port Harcourt,2022-08-22
+CL046,Frank Garba,Individual,Kaduna,2018-06-27
+CL047,Joseph Brown,Individual,Kaduna,2018-12-21
+CL048,Victor Taylor,Individual,Lagos,2022-09-11
+CL049,Emeka Okoro,Individual,Enugu,2021-09-20
+CL050,Amina Nnamdi,Individual,Benin City,2019-07-23
+CL051,Ngozi Idris,Individual,Benin City,2018-08-24
+CL052,Kemi Chukwu,Individual,Abuja,2018-02-01
+CL053,Victor Clark,Individual,Benin City,2018-06-20
+CL054,Helen Okafor,Individual,Enugu,2023-03-09
+CL055,David Obi,Individual,Abuja,2023-11-11
+CL056,Ahmed Okoro,Individual,Kano,2020-01-09
+CL057,Joy Brown,Individual,Kano,2020-08-05
+CL058,Joy Uche,Individual,Ibadan,2024-07-14
+CL059,Chukwu Holdings Ltd,Corporate,Abuja,2022-09-11
+CL060,Andrew Johnson,Individual,Benin City,2024-07-10
+CL061,Samuel Smith,Individual,Abuja,2023-12-03
+CL062,John Smith,Individual,Ibadan,2019-12-25
+CL063,Emeka Nnamdi,Individual,Enugu,2021-09-17
+CL064,Abubakar Holdings Ltd,Corporate,Lagos,2019-08-08
+CL065,Adeyemi Holdings Ltd,Corporate,Ibadan,2018-10-09
+CL066,Mohammed Holdings Ltd,Corporate,Enugu,2021-06-02
+CL067,Aliyu Holdings Ltd,Corporate,Lagos,2021-07-18
+CL068,Sarah Balogun,Individual,Kano,2020-02-19
+CL069,Rebecca Igwe,Individual,Kano,2020-07-07
+CL070,Samuel Davis,Individual,Lagos,2021-07-17
+CL071,Joy Sani,Individual,Kano,2023-03-22
+CL072,Johnson Holdings Ltd,Corporate,Lagos,2024-06-24
+CL073,Miller Holdings Ltd,Corporate,Abuja,2022-07-20
+CL074,Joseph Suleiman,Individual,Benin City,2018-05-16
+CL075,Smith Holdings Ltd,Corporate,Abuja,2023-03-10
+CL076,Blessing Suleiman,Individual,Lagos,2019-04-01
+CL077,Zainab Amadi,Individual,Port Harcourt,2024-03-10
+CL078,Nwosu Holdings Ltd,Corporate,Kano,2024-05-04
+CL079,Hassan Holdings Ltd,Corporate,Abuja,2023-01-14
+CL080,Moore Holdings Ltd,Corporate,Enugu,2022-04-09
+CL081,Williams Holdings Ltd,Corporate,Benin City,2022-03-31
+CL082,Suleiman Holdings Ltd,Corporate,Enugu,2018-05-31
+CL083,Tobi Williams,Individual,Benin City,2020-08-27
+CL084,Ojo Holdings Ltd,Corporate,Kano,2018-05-06
+CL085,Mohammed Holdings Ltd,Corporate,Lagos,2021-11-22
+CL086,Igwe Holdings Ltd,Corporate,Abuja,2022-03-31
+CL087,Danjuma Holdings Ltd,Corporate,Kano,2020-10-10
+CL088,Mohammed Holdings Ltd,Corporate,Benin City,2024-08-08
+CL089,Ahmed Miller,Individual,Benin City,2018-04-25
+CL090,Balogun Holdings Ltd,Corporate,Ibadan,2021-05-13
+CL091,Ahmed Garba,Individual,Ibadan,2021-12-24
+CL092,Zainab Ojo,Individual,Kano,2022-02-18
+CL093,Mary James,Individual,Kaduna,2022-02-19
+CL094,Musa Lawal,Individual,Kaduna,2020-01-07
+CL095,Andrew Moore,Individual,Enugu,2022-10-09
+CL096,Chioma Suleiman,Individual,Abuja,2024-07-07
+CL097,Adamu Holdings Ltd,Corporate,Kaduna,2018-04-17
+CL098,Ahmed Mohammed,Individual,Abuja,2024-04-17
+CL099,Chinedu Bello,Individual,Abuja,2018-04-19
+CL100,Nwosu Holdings Ltd,Corporate,Kaduna,2018-01-14
+CL101,Mohammed Holdings Ltd,Corporate,Ibadan,2024-05-30
+CL102,Funke Mohammed,Individual,Benin City,2018-07-20
+CL103,Samuel Okonkwo,Individual,Benin City,2022-07-22
+CL104,Adamu Holdings Ltd,Corporate,Lagos,2021-11-12
+CL105,Umeh Holdings Ltd,Corporate,Benin City,2023-03-20
+CL106,Rita Johnson,Individual,Abuja,2021-02-10
+CL107,White Holdings Ltd,Corporate,Benin City,2019-07-04
+CL108,Wilson Holdings Ltd,Corporate,Port Harcourt,2019-02-16
+CL109,Musa Taylor,Individual,Kaduna,2024-09-23
+CL110,Esther Clark,Individual,Lagos,2023-07-04
+CL111,Samuel Chukwu,Individual,Enugu,2022-05-18
+CL112,Ojo Holdings Ltd,Corporate,Abuja,2024-08-25
+CL113,Amina Adeyemi,Individual,Enugu,2019-05-08
+CL114,Joy Idris,Individual,Kano,2024-05-19
+CL115,Okoro Holdings Ltd,Corporate,Ibadan,2023-12-14
+CL116,Amadi Holdings Ltd,Corporate,Port Harcourt,2021-12-11
+CL117,Sarah James,Individual,Enugu,2019-03-10
+CL118,Kemi Uche,Individual,Kaduna,2023-04-21
+CL119,Joy Moore,Individual,Abuja,2024-03-06
+CL120,Grace James,Individual,Benin City,2020-12-09

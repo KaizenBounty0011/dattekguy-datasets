@@ -1,0 +1,51 @@
+employee_id,name,store_id,position,monthly_salary,hire_date
+EM001,Funke Taylor,ST04,Security,88000,2022-09-02
+EM002,Michael Wilson,ST03,Security,90000,2019-06-15
+EM003,Grace Williams,ST04,Cashier,113000,2019-02-20
+EM004,Joy Okonkwo,ST03,Supervisor,174000,2020-07-17
+EM005,Halima Umeh,ST04,Cashier,99000,2020-07-02
+EM006,Peter Chukwu,ST04,Security,115000,2017-10-12
+EM007,Fatima Obi,ST03,Shelf Stocker,75000,2015-02-11
+EM008,Linda Bello,ST02,Cashier,122000,2024-01-06
+EM009,Aisha Brown,ST06,Security,82000,2023-10-21
+EM010,Musa Mohammed,ST03,Shelf Stocker,74000,2015-08-07
+EM011,Linda Okonkwo,ST01,Cashier,85000,2022-04-03
+EM012,Esther Okoro,ST03,Security,119000,2021-04-13
+EM013,Tunde Hassan,ST05,Cashier,107000,2016-01-31
+EM014,Blessing Okonkwo,ST02,Supervisor,219000,2020-08-12
+EM015,Chioma Mohammed,ST02,Cashier,96000,2018-08-12
+EM016,George Smith,ST03,Store Manager,439000,2020-05-11
+EM017,James Aliyu,ST01,Store Manager,437000,2020-08-02
+EM018,Helen Obi,ST04,Cashier,113000,2022-03-21
+EM019,Paul Uche,ST06,Shelf Stocker,82000,2019-08-06
+EM020,Ibrahim Adamu,ST03,Store Manager,407000,2016-12-31
+EM021,Esther Okoro,ST01,Supervisor,181000,2019-05-01
+EM022,Michael Chukwu,ST06,Supervisor,188000,2019-06-21
+EM023,Halima Balogun,ST06,Shelf Stocker,78000,2024-08-31
+EM024,Andrew Obi,ST05,Cashier,109000,2016-09-02
+EM025,Ngozi Abubakar,ST06,Cashier,113000,2022-04-08
+EM026,Mary Aliyu,ST04,Security,119000,2017-09-13
+EM027,Esther Uche,ST03,Cashier,94000,2021-07-12
+EM028,Joy Adeyemi,ST05,Security,86000,2021-05-21
+EM029,Mary Brown,ST05,Supervisor,216000,2018-08-12
+EM030,Tobi Aliyu,ST01,Shelf Stocker,78000,2021-03-31
+EM031,Blessing Okafor,ST02,Shelf Stocker,98000,2020-10-20
+EM032,Frank Okonkwo,ST06,Cashier,104000,2021-03-11
+EM033,Blessing Amadi,ST03,Store Manager,396000,2022-09-05
+EM034,Ibrahim Okoro,ST05,Supervisor,173000,2017-12-17
+EM035,Kemi Chukwu,ST01,Shelf Stocker,92000,2017-08-18
+EM036,Tobi Adamu,ST04,Security,115000,2015-03-15
+EM037,Mary Moore,ST02,Shelf Stocker,85000,2022-08-31
+EM038,Amina Okafor,ST06,Security,76000,2015-02-26
+EM039,Chioma Balogun,ST04,Supervisor,204000,2015-02-05
+EM040,Andrew Danjuma,ST02,Shelf Stocker,110000,2018-01-03
+EM041,Tunde Chukwu,ST02,Shelf Stocker,70000,2021-11-01
+EM042,Amina Obi,ST02,Cashier,87000,2016-06-07
+EM043,Funke Williams,ST04,Security,114000,2015-03-27
+EM044,Tunde Moore,ST02,Cashier,129000,2016-12-15
+EM045,Amina Nwosu,ST02,Store Manager,421000,2016-08-11
+EM046,Esther Lawal,ST02,Cashier,97000,2015-10-20
+EM047,Sarah Umeh,ST02,Shelf Stocker,105000,2020-11-20
+EM048,Linda Lawal,ST05,Supervisor,207000,2022-04-08
+EM049,Blessing Moore,ST06,Supervisor,180000,2022-07-09
+EM050,Fatima Brown,ST02,Cashier,91000,2020-08-18

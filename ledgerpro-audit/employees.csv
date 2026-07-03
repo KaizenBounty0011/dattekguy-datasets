@@ -1,0 +1,36 @@
+employee_id,name,role,department,monthly_salary,hire_date
+EM001,Funke Amadi,Audit Manager,Audit,741000,2023-04-24
+EM002,Linda Ojo,Senior Auditor,Advisory,452000,2024-07-09
+EM003,Tobi Aliyu,Junior Auditor,Audit,238000,2019-06-03
+EM004,Joy Mohammed,Senior Auditor,Audit,453000,2021-08-07
+EM005,Esther Williams,Senior Auditor,Tax,457000,2022-10-03
+EM006,Zainab Yusuf,Junior Auditor,Advisory,192000,2018-10-26
+EM007,Stella Moore,Senior Auditor,Audit,446000,2022-07-08
+EM008,Aisha Taylor,Junior Auditor,Advisory,253000,2019-05-04
+EM009,Paul Suleiman,Senior Auditor,Tax,424000,2018-04-03
+EM010,Helen Adeyemi,Senior Auditor,Tax,382000,2018-01-21
+EM011,Esther Amadi,Senior Auditor,Tax,463000,2022-11-26
+EM012,Esther Nwosu,Junior Auditor,Tax,248000,2019-04-13
+EM013,Michael Taylor,Audit Manager,Tax,752000,2015-12-17
+EM014,James White,Junior Auditor,Tax,278000,2020-11-13
+EM015,Rita Idris,Junior Auditor,Advisory,210000,2017-05-07
+EM016,Victor Yusuf,Junior Auditor,Tax,255000,2019-03-15
+EM017,Grace Johnson,Audit Manager,Advisory,686000,2015-03-26
+EM018,Zainab Lawal,Junior Auditor,Tax,238000,2023-08-19
+EM019,Ibrahim Amadi,Junior Auditor,Tax,210000,2021-06-09
+EM020,Emeka Moore,Junior Auditor,Tax,197000,2015-12-10
+EM021,Joy Okoro,Senior Auditor,Advisory,423000,2018-07-02
+EM022,Michael Nwosu,Senior Auditor,Tax,414000,2021-04-08
+EM023,Esther Williams,Audit Manager,Tax,748000,2017-09-08
+EM024,Kemi Yusuf,Senior Auditor,Advisory,465000,2017-07-10
+EM025,Ngozi Smith,Junior Auditor,Advisory,226000,2024-11-03
+EM026,Victor Danjuma,Senior Auditor,Audit,479000,2021-07-24
+EM027,Victor James,Partner,Advisory,1556000,2017-05-19
+EM028,Joy Aliyu,Audit Manager,Audit,763000,2018-08-02
+EM029,John Smith,Senior Auditor,Advisory,478000,2024-03-12
+EM030,Grace Brown,Senior Auditor,Tax,401000,2016-09-03
+EM031,Esther Suleiman,Junior Auditor,Audit,218000,2014-03-16
+EM032,Michael Lawal,Audit Manager,Tax,755000,2024-12-10
+EM033,Michael Lawal,Audit Manager,Advisory,743000,2021-07-05
+EM034,Rita Davis,Partner,Tax,1495000,2020-03-27
+EM035,Tunde Ojo,Senior Auditor,Tax,385000,2019-10-24

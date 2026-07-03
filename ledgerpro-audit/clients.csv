@@ -1,0 +1,61 @@
+client_id,company_name,industry,city,contract_value,client_since
+CL001,Company B1,Manufacturing,Ibadan,24000000,2022-04-26
+CL002,Company C2,Banking,Enugu,12400000,2019-06-14
+CL003,Company D3,Agriculture,Port Harcourt,29200000,2018-09-07
+CL004,Company E4,Healthcare,Abuja,21400000,2021-04-26
+CL005,Company F5,Retail,Lagos,29300000,2019-09-19
+CL006,Company G6,Retail,Port Harcourt,20600000,2021-07-14
+CL007,Company H7,Banking,Ibadan,26600000,2024-07-06
+CL008,Company I8,Real Estate,Kaduna,17400000,2020-04-05
+CL009,Company J9,Telecom,Port Harcourt,19300000,2024-09-06
+CL010,Company K10,Telecom,Port Harcourt,27400000,2017-11-05
+CL011,Company L11,Banking,Abuja,27400000,2018-06-13
+CL012,Company M12,Telecom,Kano,19600000,2018-05-08
+CL013,Company N13,Banking,Kaduna,26600000,2021-10-07
+CL014,Company O14,Healthcare,Kaduna,27900000,2024-02-27
+CL015,Company P15,Oil & Gas,Kaduna,25300000,2020-08-04
+CL016,Company Q16,Agriculture,Lagos,20900000,2019-02-14
+CL017,Company R17,Healthcare,Kano,25000000,2019-01-06
+CL018,Company S18,Oil & Gas,Enugu,29900000,2021-04-29
+CL019,Company T19,Healthcare,Port Harcourt,4500000,2018-08-04
+CL020,Company U20,Healthcare,Kano,4600000,2021-05-10
+CL021,Company V21,Healthcare,Enugu,17300000,2022-09-22
+CL022,Company W22,Telecom,Benin City,14500000,2022-01-10
+CL023,Company X23,Agriculture,Ibadan,4900000,2023-09-10
+CL024,Company Y24,Manufacturing,Ibadan,27400000,2020-04-29
+CL025,Company Z25,Telecom,Kaduna,23200000,2019-08-16
+CL026,Company A26,Manufacturing,Abuja,25700000,2020-10-04
+CL027,Company B27,Oil & Gas,Enugu,11900000,2019-01-03
+CL028,Company C28,Real Estate,Enugu,16700000,2016-10-21
+CL029,Company D29,Healthcare,Kaduna,16400000,2017-04-02
+CL030,Company E30,Real Estate,Benin City,27600000,2022-09-18
+CL031,Company F31,Real Estate,Kano,900000,2016-07-23
+CL032,Company G32,Retail,Enugu,26300000,2018-01-22
+CL033,Company H33,Banking,Abuja,20700000,2024-10-17
+CL034,Company I34,Retail,Lagos,4800000,2024-07-04
+CL035,Company J35,Healthcare,Benin City,8400000,2017-12-07
+CL036,Company K36,Oil & Gas,Port Harcourt,6900000,2021-11-17
+CL037,Company L37,Oil & Gas,Kano,16100000,2024-08-29
+CL038,Company M38,Telecom,Benin City,20000000,2020-08-07
+CL039,Company N39,Banking,Ibadan,22800000,2023-05-06
+CL040,Company O40,Banking,Abuja,26400000,2016-05-17
+CL041,Company P41,Oil & Gas,Lagos,10900000,2018-03-16
+CL042,Company Q42,Oil & Gas,Lagos,4100000,2019-09-28
+CL043,Company R43,Retail,Benin City,12800000,2020-03-14
+CL044,Company S44,Real Estate,Kaduna,25300000,2017-03-03
+CL045,Company T45,Healthcare,Enugu,13800000,2019-01-21
+CL046,Company U46,Real Estate,Lagos,18100000,2018-09-30
+CL047,Company V47,Telecom,Kaduna,2500000,2022-11-24
+CL048,Company W48,Real Estate,Benin City,14100000,2024-05-20
+CL049,Company X49,Real Estate,Port Harcourt,25800000,2017-07-11
+CL050,Company Y50,Banking,Enugu,11000000,2020-06-06
+CL051,Company Z51,Oil & Gas,Abuja,5900000,2022-09-20
+CL052,Company A52,Telecom,Enugu,21400000,2020-12-25
+CL053,Company B53,Telecom,Enugu,2600000,2017-11-30
+CL054,Company C54,Manufacturing,Enugu,16900000,2024-02-07
+CL055,Company D55,Retail,Kano,1500000,2023-07-21
+CL056,Company E56,Agriculture,Benin City,17900000,2019-08-03
+CL057,Company F57,Telecom,Abuja,8600000,2020-05-01
+CL058,Company G58,Telecom,Kaduna,13800000,2018-06-10
+CL059,Company H59,Healthcare,Kaduna,24900000,2023-03-11
+CL060,Company I60,Oil & Gas,Ibadan,20700000,2016-01-11

@@ -1,0 +1,61 @@
+equipment_id,rig_id,equipment_name,status,purchase_year,cost
+EQ001,RG05,Crane,Operational,2022,5040000
+EQ002,RG05,Compressor,Operational,2014,8930000
+EQ003,RG05,Drill Pump,Operational,2021,7090000
+EQ004,RG02,Mud Pump,Operational,2007,3930000
+EQ005,RG05,Generator,Operational,2012,1000000
+EQ006,RG03,Crane,Under Repair,2018,4840000
+EQ007,RG01,Crane,Operational,2017,2240000
+EQ008,RG05,Drill Pump,Retired,2007,1930000
+EQ009,RG02,Separator,Retired,2007,4070000
+EQ010,RG05,Blowout Preventer,Under Repair,2013,8370000
+EQ011,RG04,Drill Pump,Operational,2012,1250000
+EQ012,RG01,Drill Pump,Operational,2022,2670000
+EQ013,RG06,Crane,Operational,2018,5590000
+EQ014,RG02,Turbine,Retired,2014,1920000
+EQ015,RG01,Compressor,Operational,2009,7330000
+EQ016,RG04,Crane,Under Repair,2018,8010000
+EQ017,RG03,Drill Pump,Operational,2017,8810000
+EQ018,RG04,Separator,Under Repair,2008,5710000
+EQ019,RG04,Turbine,Operational,2009,7230000
+EQ020,RG05,Crane,Operational,2012,4920000
+EQ021,RG05,Mud Pump,Operational,2007,7960000
+EQ022,RG06,Separator,Operational,2019,4610000
+EQ023,RG02,Generator,Operational,2018,4920000
+EQ024,RG04,Turbine,Retired,2021,610000
+EQ025,RG05,Crane,Under Repair,2017,1370000
+EQ026,RG04,Mud Pump,Operational,2010,6130000
+EQ027,RG06,Drill Pump,Under Repair,2014,6440000
+EQ028,RG05,Crane,Operational,2023,5980000
+EQ029,RG01,Generator,Operational,2015,6870000
+EQ030,RG04,Turbine,Under Repair,2009,4940000
+EQ031,RG03,Turbine,Operational,2014,750000
+EQ032,RG05,Crane,Retired,2016,8090000
+EQ033,RG05,Drill Pump,Operational,2005,1240000
+EQ034,RG06,Blowout Preventer,Operational,2019,1610000
+EQ035,RG04,Mud Pump,Under Repair,2022,6460000
+EQ036,RG02,Compressor,Operational,2023,4100000
+EQ037,RG04,Mud Pump,Operational,2022,5950000
+EQ038,RG04,Compressor,Operational,2014,5880000
+EQ039,RG04,Drill Pump,Operational,2016,8420000
+EQ040,RG01,Drill Pump,Operational,2013,3260000
+EQ041,RG05,Generator,Retired,2019,6240000
+EQ042,RG04,Mud Pump,Under Repair,2006,6910000
+EQ043,RG02,Drill Pump,Operational,2023,2500000
+EQ044,RG01,Compressor,Operational,2009,3980000
+EQ045,RG06,Drill Pump,Operational,2021,4500000
+EQ046,RG06,Drill Pump,Under Repair,2013,2250000
+EQ047,RG05,Drill Pump,Operational,2016,2020000
+EQ048,RG02,Generator,Operational,2011,4670000
+EQ049,RG05,Crane,Operational,2022,660000
+EQ050,RG04,Generator,Operational,2005,8510000
+EQ051,RG04,Crane,Operational,2009,8810000
+EQ052,RG03,Generator,Operational,2018,1920000
+EQ053,RG03,Turbine,Operational,2012,5300000
+EQ054,RG06,Blowout Preventer,Operational,2015,5560000
+EQ055,RG06,Compressor,Operational,2014,4500000
+EQ056,RG06,Mud Pump,Operational,2020,3110000
+EQ057,RG01,Separator,Retired,2020,8570000
+EQ058,RG02,Mud Pump,Operational,2013,4310000
+EQ059,RG02,Blowout Preventer,Operational,2007,3370000
+EQ060,RG04,Separator,Retired,2022,7280000

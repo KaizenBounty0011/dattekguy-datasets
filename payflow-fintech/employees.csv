@@ -1,0 +1,41 @@
+employee_id,name,department,role,city,hire_date
+EM001,Esther Chukwu,Compliance,Manager,Lagos,2022-05-22
+EM002,Emeka Ojo,Engineering,Manager,Kaduna,2022-04-07
+EM003,Funke Uche,Finance,Manager,Ibadan,2024-12-24
+EM004,Rita Idris,Engineering,Senior Officer,Abuja,2024-01-27
+EM005,Paul Igwe,Customer Support,Manager,Abuja,2022-06-26
+EM006,Michael Danjuma,Engineering,Officer,Kano,2024-06-29
+EM007,Rebecca Amadi,Customer Support,Manager,Kano,2019-08-30
+EM008,Zainab Smith,Marketing,Analyst,Enugu,2023-07-24
+EM009,Funke James,Customer Support,Lead,Benin City,2022-07-06
+EM010,Chinedu Danjuma,Finance,Analyst,Abuja,2023-10-10
+EM011,Peter Umeh,Engineering,Analyst,Port Harcourt,2021-03-19
+EM012,Rita Adamu,Finance,Lead,Benin City,2020-07-26
+EM013,Ibrahim Abubakar,Engineering,Manager,Ibadan,2022-01-15
+EM014,Musa Adamu,Marketing,Officer,Ibadan,2024-11-13
+EM015,Emeka Hassan,Compliance,Manager,Kano,2022-09-14
+EM016,James Chukwu,Finance,Manager,Port Harcourt,2020-09-07
+EM017,Samuel Brown,Marketing,Analyst,Benin City,2022-09-17
+EM018,Tobi Adamu,Finance,Analyst,Enugu,2021-07-14
+EM019,Ibrahim Clark,Marketing,Lead,Ibadan,2023-02-13
+EM020,George Brown,Compliance,Analyst,Port Harcourt,2020-02-26
+EM021,Musa Williams,Marketing,Officer,Kaduna,2022-09-14
+EM022,Fatima Adamu,Finance,Analyst,Kano,2021-06-05
+EM023,Andrew Okafor,Customer Support,Senior Officer,Abuja,2019-08-02
+EM024,Tunde Sani,Finance,Lead,Abuja,2021-09-13
+EM025,Andrew Garba,Finance,Senior Officer,Enugu,2024-12-13
+EM026,Amina Clark,Marketing,Lead,Benin City,2024-06-30
+EM027,Victor Obi,Finance,Analyst,Enugu,2024-03-24
+EM028,Funke Brown,Compliance,Manager,Enugu,2021-01-03
+EM029,Aisha Brown,Marketing,Analyst,Ibadan,2022-09-07
+EM030,James Balogun,Compliance,Senior Officer,Lagos,2022-01-31
+EM031,Blessing Johnson,Marketing,Lead,Lagos,2024-04-12
+EM032,Andrew Moore,Customer Support,Analyst,Lagos,2023-02-22
+EM033,Daniel Eze,Customer Support,Manager,Abuja,2019-08-18
+EM034,George Uche,Engineering,Officer,Lagos,2022-09-24
+EM035,Aisha Okafor,Marketing,Manager,Kaduna,2019-09-09
+EM036,Blessing Eze,Customer Support,Officer,Benin City,2019-07-02
+EM037,Frank Obi,Compliance,Analyst,Ibadan,2022-01-26
+EM038,Kemi Ojo,Marketing,Analyst,Benin City,2019-12-28
+EM039,Chioma Chukwu,Engineering,Lead,Lagos,2020-11-24
+EM040,Kemi Eze,Marketing,Officer,Ibadan,2021-02-21
