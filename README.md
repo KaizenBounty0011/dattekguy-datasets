@@ -4,7 +4,7 @@ Practice datasets for the **dattekguy** YouTube data-analysis series — realist
 (but 100% fake) company CSV files. Every video in the series analyzes one of
 these companies as a workplace scenario.
 
-▶️ Watch the series: [dattekguy on YouTube](https://www.youtube.com/@dattekguy)
+▶️ Watch the series: [DatTekGuy on YouTube](https://www.youtube.com/@DatTekGuy-root)
 
 ## The companies
 
